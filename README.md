@@ -1,16 +1,16 @@
-# Distill Clib
+# Distill Club
 
 ![Distill Club logo](https://github.com/EllaKaye/distillclub/raw/main/distillclub-400.png)
 
-Distill Club is a way of welcoming people who create websites made with the [{distill}](https://rstudio.github.io/distill/) package. For example, the hex logo and a 'Welcome to the #distillClub' message can be tweeted as a response to someone announcing their new site.
+Distill Club is a way of welcoming people who create websites made with the [{distill}](https://rstudio.github.io/distill/) package. For example, the hex logo and a 'Welcome to the #distillClub' message can be tweeted as a response to someone announcing their new site on Twitter.
 
-The idea was inspired by #xaringanClub, initiated in [a tweet by Dr Silvia Canelón](https://twitter.com/spcanelon/status/1382081701732626436) for congratulating people on their first [{xaringan}](https://slides.yihui.org/xaringan/#1) presentation.
+The idea was inspired by #xaringanClub, initiated in [a tweet by Dr Silvia Canelón](https://twitter.com/spcanelon/status/1382081701732626436), for congratulating people on their first [{xaringan}](https://slides.yihui.org/xaringan/#1) presentation.
 
 The hex logo for Distill Club was similarly inspired by the [Xaringan Club logo](https://github.com/dynastyprocess/graphics/tree/main/xaringanclub), created by [Tan Ho](https://tanho.ca), which in turn was inspired by another of [Silvia's tweets](https://twitter.com/spcanelon/status/1382063172530671617?s=20).
 
 ## Sharing (e.g. on Twitter)
 
-This hex logo is absolutely welcome to be shared - especially for welcoming people to the Distill Club! You do not have to tag me while using the image, though I'd appreciate it if you did (if only to see other people's distill websites!). My twitter handle is [@ellamkaye](https://twitter.com/ellamkaye). Please consider including alt-text wherever it's shared!
+This hex logo is absolutely welcome to be shared - especially for welcoming people to the Distill Club! You do not need to tag me while using the image, though I'd appreciate it if you did (if only to see other people's distill websites!). My twitter handle is [@ellamkaye](https://twitter.com/ellamkaye). Please consider including alt-text wherever it's shared!
 
 Suggested alt text: 
 
